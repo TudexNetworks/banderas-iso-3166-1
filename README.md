@@ -4,6 +4,7 @@ Lista de todos códigos ISO de los países del mundo
 
 
 |País|Capital|Código ISO (3 letras)|Código ISO (2 letras)|
+| ------------- | ------------- |------------- | ------------- |
 |Afganistán|Kabul|AFG|AF|
 |Albania|Tirana|ALB|AL|
 |Alemania|Berlín|DEU|DE|
